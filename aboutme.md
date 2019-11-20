@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Pivoting to Data Science
 ---
 
 My name is Jan Jaap de Jong.
@@ -14,7 +14,3 @@ Detective:
 
 Oracle:
  Another data scientist archetype is the Oracle, someone who has mastered the skills of modeling and the tools of machine learning. They will have had exposure to analysis and engineering but their focus will be on modeling—either general machine learning models or custom, domain specific models.
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
