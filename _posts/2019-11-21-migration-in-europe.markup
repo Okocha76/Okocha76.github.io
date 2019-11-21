@@ -6,12 +6,16 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-Some text.  
+Some text ...  
 
-<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/WEurope.png?raw=true" alt="Western Europe" style="zoom:50%;" />
+<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/WEurope.png?raw=true" alt="Western Europe" style="zoom: 100%;" />
 
-<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/EEurope.png?raw=true" alt="Eastern Europe" style="zoom:50%;" />  
+Some more text ...    
 
-<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/regions.png?raw=True" alt="Top &amp; Bottom 25" style="zoom:50%;" />  
+<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/EEurope.png?raw=true" alt="Eastern Europe" style="zoom: 100%;" />  
 
-Photo by Barth Bailey on Unsplash  
+Even more ...
+
+<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/regions.png?raw=True" alt="Top &amp; Bottom 25"  />  
+
+... and finally, that's it!
