@@ -27,5 +27,6 @@ IIn Eastern Europe, many countries face the consequences of this EU principle. Y
 
 A look at the regions in Europe with the highest and lowest net migration emphasizes the above. Most regions in the top 25 are in Western Europe. The bottom 25 are foremost regions in Eastern Europe. These lists also stress [rural-urban migration](https://migrationdataportal.org/themen/urbanisierung-und-migration), but that is beyond the scope of this blogpost.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/Population_Change_Europe_2000_2018.ipynb)
+Data source: [Eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=demo_r_gind3&lang=en)
+[![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/Population_Change_Europe_2000_2018.ipynb)
 
