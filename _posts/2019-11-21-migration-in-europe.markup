@@ -7,11 +7,11 @@ tags: [europe, migration]
 ---
 
 
-[![Image](/img/WEurope.png)](/img/WEurope.png)
+[![Image](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png)](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png)
 
 Some text ...  
 
-<img src="https://github.com/Okocha76/Okocha76.github.io/blob/master/img/WEurope.png?raw=true" alt="Western Europe" style="zoom: 100%;" />
+<img src="https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png" alt="Western Europe" style="zoom: 100%;" />
 
 Some more text ...    
 
