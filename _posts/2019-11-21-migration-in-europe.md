@@ -15,8 +15,10 @@ Western Europe | Eastern Europe
 
 Even more text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
 
-[ ![](/img/regions.png){:width="400px"} ](/img/regions.png) |  [ ![](/img/regions.png){:width="400px"} ](/img/regions.png)
+[ ![](/img/regions.png) ](/img/regions.png) |  [ ![](/img/regions.png) ](/img/regions.png)
 
 Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
 
 ... and finally, that's it!
+
+[ ![](/img/regions.png){:width="400px"} ](/img/regions.png)
