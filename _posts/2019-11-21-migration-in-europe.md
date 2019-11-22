@@ -7,10 +7,7 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-
-
-
-Some text ...  
+Intro ...  
 
 [ ![](/img/WEurope.png) ](/img/WEurope.png)
 
@@ -24,4 +21,4 @@ Even more ...
 
 ... and finally, that's it!
 
-![Crepe](/img/avatar-icon.png) | ![Crepe](/img/avatar-icon.png)
+![Crepe](/img/Avatar-JJ.jpeg) | ![Crepe](/img/Avatar-JJ.jpeg)
