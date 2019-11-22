@@ -7,7 +7,7 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-_Many in Europe associate migration only with problems or even crises. But at the same time, migrants are the answer to another challenge 'The Old Continent' is facing. This blogpost gives some insight into this matter._
+_Many in Europe associate migration only with problems or even [crises](https://en.wikipedia.org/wiki/European_migrant_crisis){:target="_blank"}. But at the same time, migrants are the answer to another challenge 'The Old Continent' is facing. This blogpost gives some insight into this matter._
 
 Since the beginning of this century demographics in Europe have changed a lot. At this moment the population of Europe is little over [747 million](https://www.worldometers.info/world-population/europe-population/){:target="_blank"} and that number is still rising. For now at least. According to projections, from 2025 the population of Europe will decline. This will happen at an accelerating rate. Also, the contraction will hurt some countries much harder than others. This becomes clear when we break the demographics down per country.
 
