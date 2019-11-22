@@ -21,7 +21,7 @@ In Western Europe, population sizes have increased. Positive net migration has b
 
 In Eastern Europe, many countries face the consequences of this EU principle. Young people are leaving, as prospects in their home country are often bleak. This causes both negative net migration and decreasing natural change. This is likely to cause more social and political instability, for example in the [Balkans](https://balkaninsight.com/2019/10/14/bye-bye-balkans-a-region-in-critical-demographic-decline/){:target="_blank"}.
 
-[ ![](/img/regions.png){:width="400px"}{: .center-block :} ](/img/regions.png)
+[ ![](/img/regions.png){:width="500px"}{: .center-block :} ](/img/regions.png)
 
 A look at the regions in Europe with the highest and lowest net migration emphasizes the above. Most regions in the top 25 are in Western Europe. The bottom 25 are foremost regions in Eastern Europe. These lists also stress [rural-urban migration](https://migrationdataportal.org/themen/urbanisierung-und-migration){:target="_blank"}, but that is beyond the scope of this blog post.
 
