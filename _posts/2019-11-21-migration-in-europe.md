@@ -19,8 +19,6 @@ Even more text about urban-rural migration patterns. Some nice text about urban-
 
 Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
 
-[ ![](/img/regions.png){:width="400px" .center-block :} ](/img/regions.png)
-
 ... and finally, that's it!
 
 
