@@ -23,4 +23,12 @@ Even more ...
 
 ... and finally, that's it!
 
-[ ![](small.jpg) ](large.jpg)
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+It can also be centered!
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+
+Here's a code chunk:
+
+[ ![](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/regions.png) ](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png)
