@@ -8,28 +8,24 @@ tags: [europe, migration]
 ---
 
 
-[ ![](/img/regions.jpg) ](/img/regions.jpg)
+
 
 Some text ...  
+
+[ ![](/img/WEurope.png) ](/img/WEurope.png)
 
 <img src="https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png" alt="Western Europe" style="zoom: 100%;" />
 
 Some more text ...    
 
-<img src="https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/EEurope.png" alt="Eastern Europe" style="zoom: 100%;" />  
+[ ![](/img/EEurope.png style="zoom: 40%) ](/img/EEurope.png)
 
+<img src="https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/EEurope.png" alt="Eastern Europe" style="zoom: 100%;" />  
 Even more ...
 
-<img src="https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/regions.png" alt="Top &amp; Bottom 25"  />  
+[ ![](/img/regions.jpg) ](/img/regions.jpg)
 
 ... and finally, that's it!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
-
-[ ![](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/regions.png) ](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png)
+![Crepe](/img/avatar-icon.png){: .left-block :} ![Crepe](/img/avatar-icon.png){: .right-block :}
