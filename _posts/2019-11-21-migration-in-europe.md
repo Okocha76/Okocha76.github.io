@@ -7,14 +7,16 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-Intro ...  
+Intro text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. 
 
 Western Europe | Eastern Europe
 :-------------:|:-------------:
 [ ![](/img/WEurope.png) ](/img/WEurope.png) | [ ![](/img/EEurope.png) ](/img/EEurope.png)
 
-Even more ...
+Even more text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
 
-[ ![](/img/regions.png){:width="500px"} ](/img/regions.png) Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
+[ ![](/img/regions.png){:width="400px"} ](/img/regions.png) |  [ ![](/img/regions.png){:width="400px"} ](/img/regions.png)
+
+Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
 
 ... and finally, that's it!
