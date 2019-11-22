@@ -7,7 +7,7 @@ tags: [europe, migration]
 ---
 
 
-[ ![](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/regions.png) ](https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/WEurope.png)
+[ ![](/img/regions.jpg) ](/img/regions.jpg)
 
 Some text ...  
 
@@ -22,3 +22,5 @@ Even more ...
 <img src="https://raw.githubusercontent.com/Okocha76/Okocha76.github.io/master/img/regions.png" alt="Top &amp; Bottom 25"  />  
 
 ... and finally, that's it!
+
+[ ![](small.jpg) ](large.jpg)
