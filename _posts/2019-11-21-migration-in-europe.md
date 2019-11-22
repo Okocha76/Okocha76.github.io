@@ -16,13 +16,12 @@ Some text ...
 
 Some more text ...    
 
-[ ![](/img/EEurope.png style="zoom: 40%) ](/img/EEurope.png)
+[ ![](/img/EEurope.png) ](/img/EEurope.png)
 
 Even more ...
 
-[ ![](/img/regions.jpg) ](/img/regions.jpg)
+[ ![](/img/regions.png) ](/img/regions.png)
 
 ... and finally, that's it!
 
-![Crepe](/img/avatar-icon.png){: .left-block :} 
-![Crepe](/img/avatar-icon.png){: .right-block :}
+![Crepe](/img/avatar-icon.png) | ![Crepe](/img/avatar-icon.png)
