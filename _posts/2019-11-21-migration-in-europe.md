@@ -9,11 +9,7 @@ tags: [europe, migration]
 
 Intro ...  
 
-[ ![](/img/WEurope.png) ](/img/WEurope.png)
-
-Some more text ...    
-
-[ ![](/img/EEurope.png) ](/img/EEurope.png)
+[ ![](/img/WEurope.png) ](/img/WEurope.png) | [ ![](/img/EEurope.png) ](/img/EEurope.png)
 
 Even more ...
 
