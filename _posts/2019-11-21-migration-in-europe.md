@@ -7,13 +7,11 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-Since the beginning of this century demographics in Europe have changed a lot. At this moment the population of Europe is little over [747 million](https://www.worldometers.info/world-population/europe-population/){:target="_blank"} and that number is still rising. For now at least.
+Many in Europe associate migration only with problems or even crises. But at the same time, migrants are the answer to another challenge 'The Old Continent' is facing. This blogpost will give some insight into this matter.
 
-According to projections, from 2025 the population of Europe will decline. This will happen at an accelerating rate. Also, the contraction will hurt some countries much harder than others. This becomes clear when we break the demographics down per country.
+Since the beginning of this century demographics in Europe have changed a lot. At this moment the population of Europe is little over [747 million](https://www.worldometers.info/world-population/europe-population/){:target="_blank"} and that number is still rising. For now at least. According to projections, from 2025 the population of Europe will decline. This will happen at an accelerating rate. Also, the contraction will hurt some countries much harder than others. This becomes clear when we break the demographics down per country.
 
-Population change is the sum of natural change and net migration. Natural change is the number of births minus the number of deaths. Immigration minus emigration equals net migration.
-
-Throughout Europe, despite increasing life expectancy, natural change is decreasing. In 2017 the average fertility rate in the [European Union](https://ec.europa.eu/eurostat/statistics-explained/index.php/Fertility_statistics){:target="_blank"} was 1.59, ranging from 1.26 in Malta to 1.90 in France. A value below 2.1, the replacement-level fertility, will cause populations to decline. Unless compensated by immigration, what happened in Western Europe.
+Population change is the sum of natural change and net migration. Natural change is the number of births minus the number of deaths. Immigration minus emigration equals net migration. Throughout Europe, despite increasing life expectancy, natural change is decreasing. In 2017 the average fertility rate in the [European Union](https://ec.europa.eu/eurostat/statistics-explained/index.php/Fertility_statistics){:target="_blank"} was 1.59, ranging from 1.26 in Malta to 1.90 in France. A value below 2.1, the replacement-level fertility, will cause populations to decline. Unless compensated by immigration, what happened in Western Europe.
 
 Western Europe | Eastern Europe
 :-------------:|:-------------:
