@@ -7,13 +7,21 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-Intro text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. 
+Since the beginning of this century demographics in Europe have changed a lot. At this moment the population of Europe is little over 747 million and that number is still rising. For now at least.
+
+According to projections, from 2025 the population of Europe will decline. This will happen at an accelerating rate. Also, the contraction will hurt some countries much harder than others. This becomes clear when we break the demographics down per country.
+
+Population change is the sum of natural change and net migration. Natural change is the number of births minus the number of deaths. Immigration minus emigration equals net migration.
+
+Throughout Europe, natural change is decreasing. In 2017 the average fertility rate in the European Union was 1.59, ranging from 1.26 in Malta to 1.90 in France. A value below 2.1, the replacement-level fertility, will cause populations to decline. Unless compensated by immigration.
 
 Western Europe | Eastern Europe
 :-------------:|:-------------:
 [ ![](/img/WEurope.png) ](/img/WEurope.png) | [ ![](/img/EEurope.png) ](/img/EEurope.png)
 
-Even more text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns. Some nice text about urban-rural migration patterns.
+This is exactly what happened in Western Europe. Population sizes have increased and positive net migration has been the main contributor. Migrants do not only come from outside of Europe. Free movement of workers encouraged many to switch countries within the European Union.
+
+In Eastern Europe, many countries face the consequences. Young people are leaving, causing both negative net migration and decreasing natural change. For example in the Balkan countries, demographic projections are harsh. This will likely cause more social and political instability in this region.
 
 [ ![](/img/regions.png){:width="400px"}{: .center-block :} ](/img/regions.png)
 
