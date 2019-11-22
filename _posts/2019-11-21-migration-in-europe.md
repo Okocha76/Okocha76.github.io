@@ -15,7 +15,7 @@ Western Europe | Eastern Europe
 
 Even more ...
 
-[ ![](/img/regions.png) ](/img/regions.png){ width: 200px; }
+[ ![](/img/regions.png) ](/img/regions.png){:height="36px" width="36px"}
 
 Some nice text about urban-rural migration patterns.
 
