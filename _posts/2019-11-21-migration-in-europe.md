@@ -19,7 +19,7 @@ Western Europe | Eastern Europe
 
 In Western Europe, population sizes have increased. Positive nett migration has been the main contributor. Migrants do not only come from outside of Europe. [Free movement of workers](https://ec.europa.eu/social/main.jsp?catId=457){:target="_blank"} encouraged many to switch countries within the European Union.
 
-In Eastern Europe, many countries face the consequences of this EU principle. Young people are leaving, as prospects in their home country are often bleak. This causes both negative nett migration and decreasing natural change. This will most likely cause more social and political instability, for example in the [Balkans](https://balkaninsight.com/2019/10/14/bye-bye-balkans-a-region-in-critical-demographic-decline/){:target="_blank"}.
+In Eastern Europe, many countries face the consequences of this EU principle. Young people are leaving, as prospects in their home country are often bleak. This causes both negative nett migration and decreasing natural change. This is likely to cause more social and political instability, for example in the [Balkans](https://balkaninsight.com/2019/10/14/bye-bye-balkans-a-region-in-critical-demographic-decline/){:target="_blank"}.
 
 [ ![](/img/regions.png){:width="400px"}{: .center-block :} ](/img/regions.png)
 
