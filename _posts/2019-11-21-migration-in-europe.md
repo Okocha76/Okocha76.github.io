@@ -15,6 +15,6 @@ Intro ...
 Even more ...
 
 :-------------|-------------:
-[ ![](/img/regions.png) ](/img/regions.png)  |  
+[ ![](/img/regions.png) ](/img/regions.png)  |  Some nice text about urban-rural migration patterns.
 
 ... and finally, that's it!
