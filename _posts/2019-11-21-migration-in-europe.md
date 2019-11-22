@@ -7,7 +7,7 @@ bigimg: /img/barth-bailey-d2uHXWTkGn4-unsplash.jpg
 tags: [europe, migration]
 ---
 
-Many in Europe associate migration only with problems or even crises. But at the same time, migrants are the answer to another challenge 'The Old Continent' is facing. This blogpost will give some insight into this matter.
+_Many in Europe associate migration only with problems or even crises. But at the same time, migrants are the answer to another challenge 'The Old Continent' is facing. This blogpost will give some insight into this matter._
 
 Since the beginning of this century demographics in Europe have changed a lot. At this moment the population of Europe is little over [747 million](https://www.worldometers.info/world-population/europe-population/){:target="_blank"} and that number is still rising. For now at least. According to projections, from 2025 the population of Europe will decline. This will happen at an accelerating rate. Also, the contraction will hurt some countries much harder than others. This becomes clear when we break the demographics down per country.
 
@@ -25,6 +25,6 @@ In Eastern Europe, many countries face the consequences of this EU principle. Yo
 
 A look at the regions in Europe with the highest and lowest net migration emphasizes the above. Most regions in the top 25 are in Western Europe. The bottom 25 are foremost regions in Eastern Europe. These lists also stress [rural-urban migration](https://migrationdataportal.org/themen/urbanisierung-und-migration){:target="_blank"}, but that is beyond the scope of this blogpost.
 
-Data source: [Eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=demo_r_gind3&lang=en){:target="_blank"}  
-Notebook: [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/Population_Change_Europe_2000_2018.ipynb){:target="_blank"}
+**Data source:** [Eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=demo_r_gind3&lang=en){:target="_blank"}  
+**Notebook:** [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/Population_Change_Europe_2000_2018.ipynb){:target="_blank"}
 
