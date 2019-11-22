@@ -16,5 +16,3 @@ Even more ...
 [ ![](/img/regions.png) ](/img/regions.png)
 
 ... and finally, that's it!
-
-![Crepe](/img/Avatar-JJ.jpeg) | ![Crepe](/img/Avatar-JJ.jpeg)
