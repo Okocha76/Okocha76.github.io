@@ -9,10 +9,12 @@ tags: [europe, migration]
 
 Intro ...  
 
-[ ![](/img/WEurope.png) ](/img/WEurope.png) | [ ![](/img/EEurope.png) ](/img/EEurope.png)
+:-------------|-------------:
+[ ![](/img/WEurope.png) ](/img/WEurope.png)  |  [ ![](/img/EEurope.png) ](/img/EEurope.png)
 
 Even more ...
 
-[ ![](/img/regions.png) ](/img/regions.png)
+:-------------|-------------:
+[ ![](/img/regions.png) ](/img/regions.png)  |  
 
 ... and finally, that's it!
