@@ -11,7 +11,6 @@ Intro ...
 
 Western Europe | Eastern Europe
 :-------------:|:-------------:
-Western Europe | Eastern Europe
 [ ![](/img/WEurope.png) ](/img/WEurope.png) | [ ![](/img/EEurope.png) ](/img/EEurope.png)
 
 Even more ...
