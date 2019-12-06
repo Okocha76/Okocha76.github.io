@@ -23,7 +23,9 @@ future: false
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "aboutme"
+  About me: "aboutme"
+  Skills: "skills"
+  Projects: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
