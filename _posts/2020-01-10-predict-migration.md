@@ -9,11 +9,11 @@ tags: [europe, migration]
 
 _Migration is the main force behind population change in Europe.  This is one of the main conclusions from my [previous blog post](https://okocha76.github.io/2019-11-21-migration-in-europe/). So is it possible to predict future migration?_
 
-The base predictive model uses data from Eurostat over the period 2000-2017. Numerous variables have an influence on migration.  So I collected and merged many datasets that might be useful. Cleaning the data was time-consuming, because of missing values and differences between datasets. I split the dataset into a train (2001-2012), validation (2013-2015) and test (2016) dataset. 
+My predictive models will use data from Eurostat over the period 2000-2017. Numerous variables have an influence on migration.  So I collected and merged many datasets that might be useful. Cleaning the data was time-consuming, because of missing values and differences between datasets. I split the dataset into a train (2001-2012), validation (2013-2015) and test (2016) dataset. 
 
-To predict whether the migration rate in an area will rise or fall in the next year is the target. For this classification problem, you would expect a majority baseline close to 50%. And indeed, this is the case, 51.4% migration rate decreases the next year.
+To predict whether the migration rate in a certain area will rise or fall in the next year is the target. For this classification problem, you would expect a majority baseline close to 50%. And indeed, for 51.4% observations in the train dataset migration rate decreases the next year.
 
-In an attempt to beat this baseline prediction, I start out with  Logistic Regression. The model uses all the features in the dataset, One Hot Encoding categorical features. Model accuracy is 56.9%.
+In an attempt to beat the baseline prediction, I start out with Logistic Regression. This model uses all features in the dataset, while One Hot Encoding categorical features. Model accuracy is 56.9%.
 
 Next, I try a Random Forest Classifier and model accuracy drops to 55.6%. Feature importances gives some insight for feature selection, but permutation importances goes deeper (left). 
 
