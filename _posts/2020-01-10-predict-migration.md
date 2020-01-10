@@ -7,7 +7,7 @@ bigimg: /img/daniel-schludi-e1RI3wRelqM-unsplash.jpg
 tags: [europe, migration]
 ---
 
-_Migration is the main force behind population change in Europe.  This is one of the main conclusions from my previous blog post.  So would it be possible to predict future migration?_
+_Migration is the main force behind population change in Europe.  This is one of the main conclusions from my [previous blog post](https://okocha76.github.io/2019-11-21-migration-in-europe/). So is it possible to predict future migration?_
 
 The base predictive model uses data from Eurostat over the period 2000-2017. Numerous variables have an influence on migration.  So I collected and merged many datasets that might be useful. Cleaning the data was time-consuming, because of missing values and differences between datasets. I split the dataset into a train (2001-2012), validation (2013-2015) and test (2016) dataset. 
 
