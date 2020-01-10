@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Predict Migration
+title: Predict Migration
 subtitle: Mission Impossible?
 gh-repo: Okocha76
 bigimg: /img/daniel-schludi-e1RI3wRelqM-unsplash.jpg
@@ -30,10 +30,42 @@ Partial Dependency Plots show the marginal effect one or two features have on th
 <iframe id="pdp-interact" scrolling="no" width="100%" height="500px" src="/img/3d-pdp.html"></iframe>
 
 Shapley Value Plots help explain model predictions. With a prediction value < 0.5 the model expects migration rate to drop next year. Whereas a model outcome > 0.5 predicts a rise in migration rate.
-[ ![](/img/shapley2.png) ]
+![](/img/shapley2.png)
 
 I rerun the Logistic Regression model with the selected features and model accuracy increases to 59.5%. Model coefficients below.
-[ ![](/img/logistic.png) ]
+![](/img/logistic.png)
+
+As a small bonus, below you see an interactive map from Eurostat.
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-queue.v3.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jsonstat@0.13.3/json-stat.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/eurostat/eurostat.js@0.9.15/js/eurostat-lib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/eurostat/eurostat.js@0.9.15/js/eurostat-map.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/eurostat/eurostat.js@0.9.15/js/eurostat-tooltip.js"></script>
+
+<svg id="map"></svg>
+
+<script>
+	EstLib.map()
+	.width(900)
+	.scale("10M")
+	.NUTSyear(2016)
+	.datasetCode("demo_r_gind3").nutsLvl(3).filters({ indic_de:"CNMIGRATRT", time : 2017 })	
+	.classifMethod("threshold").threshold([-15,-10,-6,-4,-2,0,2,4,6,10,15])	
+	.tooltipShowFlags(false)
+	.unitText(["‰"])
+	.legendTitleText("Crude rate of net migration 2017 (in ‰)")
+	.legendLabelDecNb(0)
+	.legendBoxHeight(340)
+	.legendBoxWidth(150)
+	.build();
+</script>
 
 **Source Datasets:** [Eurostat](https://ec.europa.eu/eurostat/web/main/home){:target="_blank"}  
 **Notebook:** [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Okocha76/Okocha76.github.io/blob/master/Migration_In_Europe.ipynb){:target="_blank"}
