@@ -22,12 +22,13 @@ Next, I try a Random Forest Classifier and model accuracy drops to 55.6%. Featur
 
 The next models consist of features with permutation importance > 0. Model accuracy rises to 61.4% using the selected features and a XGBoost Random Forest Classifier (right).
 
-Partial Dependency Plots show the marginal effect one or two features have on the predicted outcome. Below on the left shows a single PDP for net migration rate. On the right, there is a PDP interact for net migration rate and GDP per inhabitant in percentage of the EU average. You can also fiddle with the PDP interact in 3D.
+Partial Dependency Plots show the marginal effect one or two features have on the predicted outcome. Below is a single PDP for net migration rate. 
+![](/img/pdp_mig_rt.png)
+
+On the right, there is a PDP interact for net migration rate and GDP per inhabitant in percentage of the EU average. You can also fiddle with the PDP interact in 3D.
 
 :-------------:|:-------------:
-[ ![](/img/pdp_mig_rt.png) ](/img/pdp_mig_rt.png) | [ ![](/img/pdp_interact.png) ](/img/pdp_interact.png)
-
-<iframe id="pdp-interact" scrolling="no" width="100%" height="500px" src="/img/3d-pdp.html"></iframe>
+[ ![](/img/pdp_interact.png) ](/img/pdp_interact.png) | <iframe id="pdp-interact" scrolling="no" width="50%" height="250px" src="/img/3d-pdp.html"></iframe>
 
 Shapley Value Plots help explain model predictions. With a prediction value < 0.5 the model expects migration rate to drop next year. Whereas a model outcome > 0.5 predicts a rise in migration rate.
 ![](/img/shapley2.png)
