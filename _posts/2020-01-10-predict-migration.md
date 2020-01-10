@@ -25,18 +25,18 @@ The next models consist of features with permutation importance > 0. Model accur
 Partial Dependency Plots show the marginal effect one or two features have on the predicted outcome. Below is a single PDP for net migration rate. 
 ![](/img/pdp_mig_rt.png)
 
-On the right, there is a PDP interact for net migration rate and GDP per inhabitant in percentage of the EU average. You can also fiddle with the PDP interact in 3D.
+And here is a PDP interact for both net migration rate and GDP per inhabitant in percentage of the EU average. You can also fiddle with this PDP interact in 3D.
 
-:-------------:|:-------------:
-[ ![](/img/pdp_interact.png) ](/img/pdp_interact.png) | <iframe id="pdp-interact" scrolling="no" width="50%" height="250px" src="/img/3d-pdp.html"></iframe>
+![](/img/pdp_interact.png)
+<iframe id="pdp-interact" scrolling="no" width="100%" height="500px" src="/img/3d-pdp.html"></iframe>
 
 Shapley Value Plots help explain model predictions. With a prediction value < 0.5 the model expects migration rate to drop next year. Whereas a model outcome > 0.5 predicts a rise in migration rate.
 ![](/img/shapley2.png)
 
-I rerun the Logistic Regression model with the selected features and model accuracy increases to 59.5%. Model coefficients below.
+I run the Logistic Regression model again, but now only with the selected features. Model accuracy increases to 59.5% and you can see model coefficients below.
 ![](/img/logistic.png)
 
-As a bonus, below you see an interactive map from Eurostat.
+As a bonus, this nice interactive map from Eurostat.
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-queue.v3.min.js"></script>
