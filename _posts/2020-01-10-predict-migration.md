@@ -23,7 +23,7 @@ Next, I try a Random Forest Classifier and model accuracy drops to 55.6%. Featur
 From here on models use the features with permutation importance > 0. Model accuracy increases to 61.4% with selected features and a XGBoost Random Forest Classifier (right).
 
 Partial Dependency Plots show the marginal effect one or two features have on the predicted outcome. Below is a single PDP for net migration rate. 
-![](/img/pdp_mig_rt.png)
+![](/img/pdp_mig_rt.png)(/img/pdp_mig_rt.png)
 
 And here is a PDP interact for both net migration rate and GDP per inhabitant in percentage of the EU average. You can also fiddle with this PDP interact in 3D.
 
