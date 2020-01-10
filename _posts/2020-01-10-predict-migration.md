@@ -15,12 +15,12 @@ To predict whether the migration rate in a certain area will rise or fall in the
 
 In an attempt to beat the baseline prediction, I start out with Logistic Regression. This model uses all features in the dataset, while One Hot Encoding categorical features. Model accuracy is 56.9%.
 
-Next, I try a Random Forest Classifier and model accuracy drops to 55.6%. Feature importances gives some insight for feature selection, but permutation importances goes deeper (left). 
+Next, I try a Random Forest Classifier and model accuracy drops to 55.6%. Feature importances gives some insight for feature selection, but permutation importances does a better job at this (left). 
 
 :-------------:|:-------------:
 [ ![](/img/permutation_imp.png) ](/img/permutation_imp.png) | [ ![](/img/xgboost.png) ](/img/xgboost.png)
 
-The next models consist of features with permutation importance > 0. Model accuracy increases to 61.4% with selected features and a XGBoost Random Forest Classifier (right).
+From here on models use the features with permutation importance > 0. Model accuracy increases to 61.4% with selected features and a XGBoost Random Forest Classifier (right).
 
 Partial Dependency Plots show the marginal effect one or two features have on the predicted outcome. Below is a single PDP for net migration rate. 
 ![](/img/pdp_mig_rt.png)
