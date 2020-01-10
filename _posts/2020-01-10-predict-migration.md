@@ -20,7 +20,7 @@ Next, I try a Random Forest Classifier and model accuracy drops to 55.6%. Featur
 :-------------:|:-------------:
 [ ![](/img/permutation_imp.png) ](/img/permutation_imp.png) | [ ![](/img/xgboost.png) ](/img/xgboost.png)
 
-The next models consist of features with permutation importance > 0. Model accuracy rises to 61.4% using the selected features and a XGBoost Random Forest Classifier (right).
+The next models consist of features with permutation importance > 0. Model accuracy increases to 61.4% with selected features and a XGBoost Random Forest Classifier (right).
 
 Partial Dependency Plots show the marginal effect one or two features have on the predicted outcome. Below is a single PDP for net migration rate. 
 ![](/img/pdp_mig_rt.png)
