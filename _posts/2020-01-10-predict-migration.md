@@ -35,7 +35,7 @@ Shapley Value Plots help explain model predictions. With a prediction value < 0.
 I rerun the Logistic Regression model with the selected features and model accuracy increases to 59.5%. Model coefficients below.
 ![](/img/logistic.png)
 
-As a small bonus, below you see an interactive map from Eurostat.
+As a bonus, below you see an interactive map from Eurostat.
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-queue.v3.min.js"></script>
@@ -68,4 +68,4 @@ As a small bonus, below you see an interactive map from Eurostat.
 </script>
 
 **Source Datasets:** [Eurostat](https://ec.europa.eu/eurostat/web/main/home){:target="_blank"}  
-**Notebook:** [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Okocha76/Okocha76.github.io/blob/master/Migration_In_Europe.ipynb){:target="_blank"}
+**Notebook:** [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/Migration_In_Europe.ipynb){:target="_blank"}
