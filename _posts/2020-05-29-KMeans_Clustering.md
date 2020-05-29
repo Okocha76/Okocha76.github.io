@@ -1,0 +1,3 @@
+Linked here is a Colab notebook which will walk you through the process of implementing the K-Means Clustering algorithm.
+
+**Notebook:** [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/K_Means_Clustering.ipynb){:target="_blank"}
