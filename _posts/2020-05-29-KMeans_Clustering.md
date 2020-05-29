@@ -1,3 +1,10 @@
-Linked here is a Colab notebook which will walk you through the process of implementing the K-Means Clustering algorithm.
+---
+layout: post
+title: K-Means Clustering
+gh-repo: Okocha76
+bigimg: /img/daniel-schludi-e1RI3wRelqM-unsplash.jpg
+tags: [europe, migration]
+---
+Here is a Colab notebook which will walk you through the process of implementing the K-Means Clustering algorithm.
 
 **Notebook:** [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okocha76/Okocha76.github.io/blob/master/K_Means_Clustering.ipynb){:target="_blank"}
