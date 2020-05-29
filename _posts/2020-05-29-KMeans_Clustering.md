@@ -2,7 +2,7 @@
 layout: post
 title: K-Means Clustering
 gh-repo: Okocha76
-bigimg: /img/daniel-schludi-e1RI3wRelqM-unsplash.jpg
+bigimg: /img/david-clode-unsplash.jpg
 tags: [europe, migration]
 ---
 Here is a Colab notebook which will walk you through the process of implementing the K-Means Clustering algorithm.
